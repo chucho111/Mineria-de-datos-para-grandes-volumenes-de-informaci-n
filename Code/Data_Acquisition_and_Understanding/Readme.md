@@ -1,3 +1,4 @@
-# This folder hosts code for data acquisition and understanding (exploratory analysis)
+# Esta carpeta alberga el código para la adquisición, transformacion y comprensión de datos.
 
-You can add detailed description in this markdown related to your specific data science project.
+## El archivo "" realizamos el ordenamiento del dataset en formato directorio.
+
